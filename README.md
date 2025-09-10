@@ -1,5 +1,3 @@
-# AI-Powered-Face-Recognition-System-with-KNN
-
 # Face-Recognition :boy: :movie_camera: 
 Face Recognition using KNN algorithm and open cv for python.This is a implementation of knn classifier.
 ## Breakdown of the code for knn classifier
